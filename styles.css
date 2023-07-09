@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&family=Tenor+Sans&display=swap");
+* body {
+  font-family: "Tenor Sans", sans-serif;
+  background-image: url("4858794.jpg");
+}
+
+.heading {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel-inner {
+  max-height: 450px;
+  padding-bottom: 22em;
+}
+
+.navbar-nav {
+  padding-right: 1em;
+}
+
+.nav-item {
+  margin-right: 2.5em;
+}
+
+.btn1 {
+  margin-top: 5em;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: 1em;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card:hover {
+  border-color: gold;
+  border-width: 10px;
+  transition: 0.5s;
+}
+
+.mb-3 {
+  max-width: 50%;
+  font-weight: bold;
+  display: block;
+  padding-left: 2em;
+  font-size: large;
+  margin: 10px;
+}
+
+.btn {
+  margin-top: 1em;
+  width: 10em;
+}
+
+.opem {
+  background: #959393;
+  border-radius: 25em;
+}
+
+.logino {
+  color: rgb(255, 180, 4);
+  justify-content: center;
+  display: flex;
+  padding-top: 1em;
+}
+
+.form-floating {
+  padding-top: 3em;
+  color: rgb(255, 180, 4);
+}
+
+.mb-1 {
+  padding: 2em;
+  font-weight: bold;
+  color: rgb(255, 180, 4);
+  display: flex;
+  justify-content: center;
+}
+
+.form-control2 {
+  padding-right: 2em;
+}
+
+.form-text {
+  color: rgb(255, 180, 4);
+}
+
+.burn {
+  width: 100%;
+  display: flex;
+  padding-top: 2em;
+  justify-content: center;
+}
+
+.img1 {
+  padding: 2em;
+  width: 60em;
+}
+
+.img2 {
+  padding: 2em;
+  width: 60em;
+}
+
+.img3 {
+  padding: 2em;
+  width: 60em;
+}
+
+.container2 {
+  display: flex;
+}
+
+.headii {
+  padding-top: 2em;
+  font-size: large;
+}/*# sourceMappingURL=styles.css.map */
